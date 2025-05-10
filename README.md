@@ -4,6 +4,9 @@
 # Crea el entorno
 python -m venv venv
 
+# Genera requirements.txt con tus dependencias:
+pip freeze > requirements.txt
+
 # Activa el entorno:
 # En Windows
 venv\Scripts\activate
