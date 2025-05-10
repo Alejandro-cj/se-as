@@ -21,4 +21,8 @@ ultralytics: para usar YOLOv8 directamente
 opencv-python: para usar la cámara y leer imágenes
 matplotlib: para mostrar resultados si quieres
 
+# para que estudie
+yolo task=detect mode=train model=yolov8n.pt data=C:/Users/alofl/Documents/yolov8_senas/datasets/dataset/data.yaml epochs=30 imgsz=640
+
+
 
