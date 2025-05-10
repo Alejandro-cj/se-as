@@ -1,0 +1,22 @@
+# Ignorar entorno virtual
+venv/
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos grandes de librerías y compilaciones
+*.dll
+*.lib
+*.exe
+
+# Ignorar archivos multimedia (opcional)
+*.jpg
+*.png
+*.mp4
+
+# Ignorar archivos de entorno y configuración
+.env
+*.log
